@@ -45,9 +45,9 @@ void insert()
     char name[100], add[1000], num[50];  
     double lat, lon;
     newnode = (struct node*) malloc(sizeof(struct node));
-    printf("\nEnter the name of the hospital: ");
+    printf("\nEnter the name of the hospital: "); 
     //gets(name);
-    fgets(name, 100, stdin);
+    fgets(name, 100, stdin);        // input problem
     strcpy(newnode->hosp_name, name);
     printf("\nEnter the latitude: ");
     scanf("%lf", &lat);
@@ -57,7 +57,7 @@ void insert()
     newnode->lon2d = lon;
     printf("\nEnter contact numbers (seperated by commas): ");
     //gets(num);
-    fgets(num, 50, stdin);
+    fgets(num, 50, stdin);      // input problem
     strcpy(newnode->hosp_num, num);
     printf("\nEnter the address: ");
     //gets(add);
