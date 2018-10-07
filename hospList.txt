@@ -1,0 +1,40 @@
+19.1374852	72.917394	Dr. L H Hiranandani Hospital	Hill Side Avenue, Hiranandani Gardens, Powai	Maharashtra	Mumbai	400076	022 25763322, 022 25763323, 022 25763328
+
+
+19.0966611	72.9239095	Godrej Memorial Hospital	Pirojshanagar, Vikhroli ( East )	Maharashtra	Mumbai	400079	022 25740919
+
+
+19.0515721	72.8346314	Lilavati Hospital and Research Centre	A - 791, Bandra Reclamation, Bandra (West)	Maharashtra	Mumbai	400050	022 26568063, 022 26568064
+
+
+18.9681978	72.8072647	Jaslok Hospital	15 - Dr.Deshmukh Marg, Pedder Road	Maharashtra	Mumbai	400026	022 66573333
+
+
+19.1188585	72.8802146	Seven Hills Hospital	SevenHills Health City, Marol Maroshi Road, Andheri East	Maharashtra	Mumbai	400059	022 67676767
+
+
+19.0552812	72.8892082	Sushrut Hospital and Research Centre	365, Swastik Park, Chembur (East)	Maharashtra	Mumbai	400071	022 25265555
+
+
+19.0327996	72.8963568	Inlaks General Hospital	Inlaks Chembur Colony, Near Jhana Sweet Shop, Chembur	Maharashtra	Mumbai	400074	022 25204160
+
+
+18.9681978	72.8072647	Jaslok Hospital And Research Centre	15, Dr G Deshmukh Marg, Peddar Road	Maharashtra	Mumbai	400026	022 66573043
+
+
+19.1095683	72.825288	Joy Hospital Pvt Ltd	423 Ab, 10Th Road, Chembur	Maharashtra	Mumbai	400071	022 25220431
+
+
+19.0712143	73.0799855	Niramaya Holistic Health Services Pvt Ltd	Plot No.5A, Sector 4,	Maharashtra	Mumbai	410210	022 27743975
+
+
+19.0691719	72.902584	Rane Heart Hospital	37, Pestom Sagar, Road No.2, Chembur	Maharashtra	Mumbai	400089	9819706667
+
+
+19.157935	72.9934762	Sai Seva Hospital And Icu	Row House B1, Sector-4, Infront of CIDCO Water Tank, Airoli	Maharashtra	Mumbai	400078	022 27799529
+
+
+19.053083	72.8982503	Surana Sethia Hospital and Research Centre	Suman Nagar, Siontrombay, Chembur, Thane	Maharashtra	Mumbai	400071	022 28022121
+
+
+18.5304995	73.8520486	Sancheti Institute For Orthopaedics and Rehabilitation	11/12 Thube Park, 16, Shivaji Nagar	Maharashtra	Pune	411005	020 28999960
